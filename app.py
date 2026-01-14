@@ -1,5 +1,5 @@
 # app.py
-"""Docstring del módulo"""
+"""Docstring del móduloo"""
 
 def suma(a: int, b: int) -> int:
     """Docstring de la función"""
